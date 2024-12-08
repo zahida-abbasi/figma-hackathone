@@ -19,10 +19,10 @@ const Newfur = () => {
                 </div>
                 <div className="flex flex-col ml-5 w-[62%] max-md:ml-0 max-md:w-full">
                   <div className="flex flex-col mt-52 font-bold max-md:mt-10 max-md:max-w-full">
-                    <div className="self-start text-base leading-7 text-pink-500 -mt-32 -ml-16">
+                    <div className="self-start text-base leading-7 text-pink-500">
                       Best Furniture For Your Castle....
                     </div>
-                    <h1 className="mt-3 text-4xl tracking-wider text-black leading-[40px] max-md:max-w-full max-md:text-4xl max-md:leading-[68px] -ml-16">
+                    <h1 className="mt-3 text-4xl tracking-wider text-black leading-[40px] max-md:max-w-full max-md:text-4xl max-md:leading-[68px]">
                       New Furniture Collection
                       <br />
                       Trends in 2020
