@@ -36,7 +36,7 @@ export default function Trendingproducts() {
                 <p className="text-xl font-bold">{promo.discount}</p>
                 <a href="#" className="text-blue-500 underline">{promo.linkText}</a>
             </div>
-            <img src={promo.image} alt="Promo" className="w-32 h-32 object-cover rounded -mr-40" />
+            <img src={promo.image} alt="Promo" className="w-32 h-32 object-cover rounded" />
             </div>
         ))}
         </div>
@@ -50,7 +50,7 @@ export default function Trendingproducts() {
                 <p className="text-xl font-bold">{promo.discount}</p>
                 <a href="#" className="text-blue-500 underline">{promo.linkText}</a>
             </div>
-            <img src={promo.image} alt="Promo" className="w-50 h-32  object-cover rounded  -mr-20" />
+            <img src={promo.image} alt="Promo" className="w-50 h-32  object-cover rounded" />
             </div>
         ))}
         </div>
